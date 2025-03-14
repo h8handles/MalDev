@@ -185,3 +185,14 @@ int main() {
 
 ```
 
+Some api functions will not have documentation because windows isn't an open system after all there
+are some alternatives that others have created for these unknown functions found through reverse engineering
+
+Process Hacker's Header Files
+
+[undocumented.ntinternals.net](https://web.archive.org/web/20230401045934/http://undocumented.ntinternals.net/) - Some structures may be outdated
+
+[ReactOS's Documentation](https://doxygen.reactos.org/globals_type.html)
+
+[Vergilius Project](https://www.vergiliusproject.com/) - Although mainly for Windows kernel structures, it remains a valuable resource.
+
