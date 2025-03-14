@@ -188,7 +188,7 @@ int main() {
 Some api functions will not have documentation because windows isn't an open system after all there
 are some alternatives that others have created for these unknown functions found through reverse engineering
 
-Process Hacker's Header Files
+[Process Hacker's Header Files](https://github.com/winsiderss/systeminformer/tree/master/phnt/include)
 
 [undocumented.ntinternals.net](https://web.archive.org/web/20230401045934/http://undocumented.ntinternals.net/) - Some structures may be outdated
 
